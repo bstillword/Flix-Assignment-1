@@ -9,21 +9,19 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
-- [ x] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ ]x (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ x] (3pts) User can view the movie poster image for each movie.
+- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src=https://i.imgur.com/lktj2lf.gif width=250><br>
 
 ### Notes
-The main problem I encounted was due to commandlinetools throwing an error while trying to download and utilize cocoapods. After various attempts, uninstalling and re-installing the CLT feature fixed the issue.
+Cocoapods installation gave me a hard time due to incompatibility with my version of commandlinetools. Uninstalling and re-installing eventually fixed the issue.
