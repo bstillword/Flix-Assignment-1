@@ -37,7 +37,7 @@ Ensuring that the outlets and different views were connected to the right swift 
 
 ### App Walkthrough GIF
 
-<img src=https://i.imgur.com/lktj2lf.gif width=250><br>
+https://i.imgur.com/lktj2lf.gif
 
 ### Notes
 Cocoapods installation gave me a hard time due to incompatibility with my version of commandlinetools. Uninstalling and re-installing eventually fixed the issue.
